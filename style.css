@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainbox {
+    height: 100vh;
+    background: url("./img/photo-1452587925148-ce544e77e70d.avif");
+    background-size: cover;
+}
+li{
+    padding: 1%;
+}
+a{
+  position: relative;
+  bottom: 8px;
+  margin-left: 1%;
+}
+.btn1{
+    color: white;
+    font-size: 30px;
+}
